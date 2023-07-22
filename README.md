@@ -47,4 +47,4 @@ Com o banco e a aplicação desligados, faça as seguintes alterações:
 
 # Licença
 
-Este código está liberado sob licença MIT. Mais detalhes em [LICENSE.md].
+Este código está liberado sob licença MIT. Mais detalhes em [LICENSE.txt](LICENSE.txt).

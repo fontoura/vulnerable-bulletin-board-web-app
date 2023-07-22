@@ -1,4 +1,4 @@
-> Se quiser ver este documento em português, por favor acesse [esta página](README-en.md)
+> Se quiser ver este documento em português, por favor acesse [esta página](README.md)
 
 This project contains a simple web application with some vulnerabilities. I presented the application and discussed the vulnerabilities in the live stream that took place on Jul 22, 2023 with the Alquymia group.
 
@@ -47,4 +47,4 @@ With the database and application turned off, make the following changes:
 
 # License
 
-This code is release under the MIT license. More details in [LICENSE.md].
+This code is release under the MIT license. More details in [LICENSE.txt](LICENSE.txt).
